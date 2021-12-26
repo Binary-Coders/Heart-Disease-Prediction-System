@@ -145,4 +145,3 @@ def prdict_heart_disease(list_data):
 - Aditya Bansal
 - Aniket Gupta
 
-## NOTE: GitHub Pages is not working
