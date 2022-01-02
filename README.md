@@ -1,5 +1,4 @@
-# Heart-Disease-Prediction-System
-Heart Disease Prediction System using Machine Learning
+<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/Heart-Disease-Prediction-System-banner.png" />
 
 ## Abstract 
 <p> 
@@ -146,7 +145,7 @@ def prdict_heart_disease(list_data):
 ### For a detailed Report <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/REPORT/PYTHON%20CAPSTONE%20PROJECT%20REPORT%20(TEAM%202).pdf">Click Here</a>
 
 ## Contributors:
-- Kumar Laxmikant 
+- Kumar Laxmikant
 - Anushka Nambiar
 - Aditya Bansal
 - Aniket Gupta
@@ -163,3 +162,6 @@ Entering Heart Details to check our Health:
 
 Since these details are stored in the Data-base, so we can also retrieve past results:
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/SearchLogs1.png" />
+
+To view our own details:
+<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/ViewMyDetaile.png" />
