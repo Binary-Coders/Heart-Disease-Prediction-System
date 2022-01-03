@@ -145,10 +145,14 @@ def prdict_heart_disease(list_data):
 ### For a detailed Report <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/REPORT/PYTHON%20CAPSTONE%20PROJECT%20REPORT%20(TEAM%202).pdf">Click Here</a>
 
 ## Contributors:
-- Kumar Laxmikant
+- Kumar Laxmikant 
 - Anushka Nambiar
 - Aditya Bansal
 - Aniket Gupta
+
+## Demo Video
+For demo video 
+<a href="https://amritacampuschennai-my.sharepoint.com/:v:/g/personal/ch_en_u4cse20005_ch_students_amrita_edu/ESuaLdQqmNdFjzSBcMiTpaABWPQ2kZWEwCJ53HsY3UdHHg">Click Here</a>
 
 ## Output Screen-shots
 When the application is runned then, a Welcome Page pops-up
@@ -165,3 +169,6 @@ Since these details are stored in the Data-base, so we can also retrieve past re
 
 To view our own details:
 <img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/ViewMyDetaile.png" />
+
+If a user doesn't understand how to use the application then he can:
+<img src="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/IntroductionViewVideo.png" />
