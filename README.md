@@ -145,7 +145,7 @@ def prdict_heart_disease(list_data):
 ### For a detailed Report <a href="https://github.com/Kumar-laxmi/Heart-Disease-Prediction-System/blob/main/REPORT/PYTHON%20CAPSTONE%20PROJECT%20REPORT%20(TEAM%202).pdf">Click Here</a>
 
 ## Contributors:
-- Kumar Laxmikant (myself)
+- Kumar Laxmikant 
 - Anushka Nambiar
 - Aditya Bansal
 - Aniket Gupta
